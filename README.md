@@ -5,7 +5,7 @@ Bu depo, “Kim Bu Futbolcu?” mobil uygulamasının güncel Gizlilik Politikas
 ## Canlı Önizleme
 
 - Proje sayfası: `https://muharremosmantopakkaya.github.io/gizlilikfutbol/`
-- Kişisel sayfa (repo adı `<kullanici-adi>.github.io` ise): `https://muharremosmantopakkaya.github.io/`
+- Kişisel site: `https://muharremtopakkaya.com`
 
 ## Yayınlama (GitHub Pages)
 
