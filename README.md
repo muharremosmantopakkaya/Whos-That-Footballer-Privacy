@@ -3,10 +3,8 @@
 Bu depo, “Kim Bu Futbolcu?” mobil uygulamasının güncel Gizlilik Politikası sayfasını barındırır ve GitHub Pages üzerinden yayınlanmasını sağlar.
 
 ## Canlı Önizleme
-
-- Proje sayfası: `https://muharremosmantopakkaya.github.io/gizlilikfutbol/`
-- Kişisel site: `https://muharremtopakkaya.com`
-
+- **Proje sayfası:** [https://muharremosmantopakkaya.github.io/Whos-That-Footballer-Privacy/](https://muharremosmantopakkaya.github.io/Whos-That-Footballer-Privacy/)
+- **Kişisel site:** [https://muharremtopakkaya.com](https://muharremtopakkaya.com)
 ## Reklamlar ve Uyumluluk
 
 Bu gizlilik politikası, uygulamada etkin olan Google AdMob için temel bilgilendirmeyi içerir.
