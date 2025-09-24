@@ -16,7 +16,6 @@ Bu gizlilik politikası, uygulamada etkin olan Google AdMob için temel bilgilen
 - Rıza yönetimi:
 
   - GDPR bölgeleri için UMP (User Messaging Platform) üzerinden yönetilir
-  - CCPA/CPRA için uygulama içi “vazgeçme” bağlantıları sağlanır
 
 - 🔗 İlgili bağlantılar:
 
